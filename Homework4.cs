@@ -65,5 +65,9 @@ class Program
                 Console.WriteLine();
             }
         }
+        else
+        {
+            Console.WriteLine("Invalid shape");
+        }
     }
 }
